@@ -6,6 +6,8 @@ const rows = 4;
 //let paleta = ["#f2eced","#b4baca","#7285a4","#8e6f58","#b56839"];
 let paleta = ["#22013b","#02566f","#02716f","#03a3a0","#03a2b8"];
 //let paleta = ["#579500","#59ae98","#079fd7","#e7c8ff","#ffcfe4"];
+let paleta = ["#a67c00", "#bf9b30", "#ffbf00", "#ffcf40", "#ffdc73"];
+//let paleta = ["#CECECE", "#797979", "#E5E5E5", "#D4D4D4", "#C5C5C5"];
 function setup() {
 	createCanvas(w, h);
 	colorMode(HSB, 360, 100, 100, 100);
